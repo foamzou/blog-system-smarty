@@ -1,5 +1,5 @@
 # blog-system--smarty
->群空间地址：[点击我](together.zoufeng.net)
+>群空间地址：[点击我](http://together.zoufeng.net)
 
 >挑战说明(请认真阅读)：[点击我](https://github.com/woshizoufeng/blog-system-smarty/blob/master/task-description.md)
 
